@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PratikBhatt4215
 - 👀 I’m interested in Doing Coding 
 - 🌱 I’m currently learning Core Java
-- 💞️ I’m looking to collaborate on XXX
+- 💞️ I’m looking to collaborate on ..........
 - 📫 How to reach me mail me - pk4789218@gmail.com
 
 <!---
