@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pratik Kumar ,About 1.5 years of overall IT experience in the field of Java, spring, and Hybris commerce application development.
+- 👋 Hi, I’m Pratik Kumar ,About 2 years of overall IT experience in the field of Java, spring, and Hybris commerce application development.
 - 👀 I'm passionate about coding.
 - 🌱 I’m currently exploring and learning more new technologies and frameworks of java
 - 📫 You can reach me at pk4789218@gmail.com
