@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PratikBhatt4215
-- 👀 I’m interested in Doing Coding 
-- 🌱 I’m currently learning Core Java
-- 💞️ I’m looking to collaborate on ..........
-- 📫 How to reach me mail me - pk4789218@gmail.com
+- 👋 Hi, I’m Pratik Kumar ,About 1.5 years of overall IT experience in the field of Java, spring, and Hybris commerce application development.
+- 👀 I'm passionate about coding.
+- 🌱 I’m currently exploring and learning more new technologies and frameworks of java
+- 📫 You can reach me at pk4789218@gmail.com
 
 <!---
 PratikBhatt4215/PratikBhatt4215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
